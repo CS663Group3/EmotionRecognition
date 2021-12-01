@@ -53,6 +53,9 @@ Instructions to download and run code
 
 
 ## Section 2 Code Description
+
+![diagram](images/emotionDetection.png)
+
 ### Google Colab
 - The colab contains python code which first mounts the google drive and downloads the AffectNet dataset to do emotion recognition.
 - After the dataset is downloaded, it starts preprocessing of data. The images are cropped to focus on only the face. The face detection is done by Haar Cascade Classification, after that the image is cropped and resized to 512x512 pixels. 
