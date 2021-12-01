@@ -28,28 +28,28 @@ Instructions to download and run code
 ![copy github HTTP link](images/1.4a.png)
 
 - Click on Git and clone the github repository
-![Click on Git and clone the github repository](images/)
+![Click on Git and clone the github repository](images/1.4b.png)
 
 - import github HTTP address
-![import github HTTP address](images/)
+![import github HTTP address](images/1.4c.png)
 
 - Click on Git and go to “Branches”
-![Click on Git and go to “Branches”](images/)
+![Click on Git and go to “Branches”](images/1.4d.png)
 
 - click on “origin/master” under remote Branches then click on “Checkout”
-![click on “origin/master” under remote Branches then click on “Checkout”](images/)
+![click on “origin/master” under remote Branches then click on “Checkout”](images/1.4e.png)
 
 - click on “master” under Local Branches and click on “Update”
-![click on “master” under Local Branches and click on “Update”](images/)
+![click on “master” under Local Branches and click on “Update”](images/1.4f.png)
 
 - download and copy the “google-services.json” file
-![download and copy the “google-services.json” file](images/)
+![download and copy the “google-services.json” file](images/1.4g.png)
 
 - Right click on app folder and paste the “google-services.json” file into app folder
-![Right click on app folder and paste the “google-services.json” file into app folder](images/)
+![Right click on app folder and paste the “google-services.json” file into app folder](images/1.4h.png)
 
 - Click run and run the application again
-![Click run and run the application again](images/)
+![Click run and run the application again](images/1.4i.png)
 
 
 
