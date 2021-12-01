@@ -84,15 +84,34 @@ To detect faces on an image the application uses ML Kit. After that the face is 
 - TfliteImageClassifier ->  This file does preprocessing of images like converting image to bitmap and tensor image. After preprocessing, it passes the image to the classifier model.
 - InterpreterImageparams -> This file sets the parameters of input and output. These parameters are required to run the classifier model precisely.
 
+
 ## Section 3 Testing:
- here you give screen shots of you running the various stages of the program as detailed here:
+Screen shots of you running the various stages of the program as detailed here:
+
 ### section 3.1: starting application
+- Starting icon and gui
+![Starting icon and gui](images/3.1a.png)
 
-### section 3.2: use-step 1    
-you need to discuss your results….discuss the steps involved in using the Android application including how the image or images are taken using the Android camera and the results.
-The result of our facial recognition is that the mobile application would classify the facial expression as one of the 6 classes (happy, sad, fear, neutral, disgust, and angry). It will rank the facial expression with the highest probability on top and the lowest probability on the bottom. It will also show the percentage of the likelihood of the facial expression. 
-There are two ways to import images. Once is by taking a live photo. Another is by importing an image in the gallery. Then, the application would determine the likelihood of the facial expression by percentage. 
+- the image being viewed in your application that was just loaded
+![the image being viewed in your application that was just loaded](images/3.1b.png)
 
+
+### section 3.2: discuss results. discuss the steps involved in using the Android application including how the image or images are taken using the Android camera and the results.
+- The result of our facial recognition is that the mobile application would classify the facial expression as one of the 6 classes (happy, sad, fear, neutral, disgust, and angry). 
+- It will rank the facial expression with the highest probability on top and the lowest probability on the bottom. It will also show the percentage of the likelihood of the facial expression. 
+- There are two ways to import images. Once is by taking a live photo. Another is by importing an image in the gallery. Then, the application would determine the likelihood of the facial expression by percentage. 
+
+- Select “take a photo” and screen shot of active image in your application you are going to process
+![Select “take a photo” and screen shot of active image in your application you are going to process](images/3.2a.png)
+
+- screen shot of showing results of running your program
+![screen shot of showing results of running your program](images/3.2b.png)
+
+- “Pick an image” and screen shot of active image in your application you are going to process
+![“Pick an image” and screen shot of active image in your application you are going to process](images/3.2c.png)
+
+- screen shot of showing results of running your program
+![screen shot of showing results of running your program](images/3.2d.png)
 
 ## Section 4 Comments on what is not working:
 We are not able to find facial expressions in real time video. At the same time, we are not able to identify facial expressions when there are multiple faces in the image.
