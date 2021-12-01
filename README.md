@@ -12,5 +12,5 @@
        
 ## Section 1 Execution Instructions:
 Instructions to download and run code 
-![screen shot of github “Emotion Recognition”](image/1.1.PNG)
+![screen shot of github “Emotion Recognition”](images/1.1.png)
 
