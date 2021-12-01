@@ -12,7 +12,44 @@
        
 ## Section 1 Execution Instructions:
 Instructions to download and run code 
+
+- screen shot of github “Emotion Recognition”  
 ![screen shot of github “Emotion Recognition”](images/1.1.png)
+
+- directory view of "temp" directory you unzipped file to show the unzipped files and directory structures
+![directory view of "temp" directory you unzipped file to show the unzipped files and directory structures](images/)
+
+- Instructions on importing the project onto Github
+![Instructions on importing the project onto Github](images/)
+
+- copy github HTTP link 
+![copy github HTTP link](images/)
+
+- Click on Git and clone the github repository
+![Click on Git and clone the github repository](images/)
+
+- import github HTTP address
+![import github HTTP address](images/)
+
+- Click on Git and go to “Branches”
+![Click on Git and go to “Branches”](images/)
+
+- click on “origin/master” under remote Branches then click on “Checkout”
+![click on “origin/master” under remote Branches then click on “Checkout”](images/)
+
+- click on “master” under Local Branches and click on “Update”
+![click on “master” under Local Branches and click on “Update”](images/)
+
+- download and copy the “google-services.json” file
+![download and copy the “google-services.json” file](images/)
+
+- Right click on app folder and paste the “google-services.json” file into app folder
+![Right click on app folder and paste the “google-services.json” file into app folder](images/)
+
+- Click run and run the application again
+![Click run and run the application again](images/)
+
+
 
 
 ## Section 2 Code Description
@@ -41,6 +78,23 @@ To detect faces on an image the application uses ML Kit. After that the face is 
 - TfliteClassifier.java -> It is the abstract file for tflite classifier. It sets up the tflite interpreter by loading the provided model.
 - TfliteImageClassifier ->  This file does preprocessing of images like converting image to bitmap and tensor image. After preprocessing, it passes the image to the classifier model.
 - InterpreterImageparams -> This file sets the parameters of input and output. These parameters are required to run the classifier model precisely.
+
+## Section 3 Testing:
+ here you give screen shots of you running the various stages of the program as detailed here:
+### section 3.1: starting application
+
+### section 3.2: use-step 1    
+you need to discuss your results….discuss the steps involved in using the Android application including how the image or images are taken using the Android camera and the results.
+The result of our facial recognition is that the mobile application would classify the facial expression as one of the 6 classes (happy, sad, fear, neutral, disgust, and angry). It will rank the facial expression with the highest probability on top and the lowest probability on the bottom. It will also show the percentage of the likelihood of the facial expression. 
+There are two ways to import images. Once is by taking a live photo. Another is by importing an image in the gallery. Then, the application would determine the likelihood of the facial expression by percentage. 
+
+
+## Section 4 Comments on what is not working:
+We are not able to find facial expressions in real time video. At the same time, we are not able to identify facial expressions when there are multiple faces in the image.
+
+## Section 5 YOUTUBE URL - URL to YouTube video: and it must go over a LIVE demonstration of the program working and describe what is working, what is not working, and how well it works (accuracy --e.g. 2/10 times, never, 9/10 times whatever)
+
+
 
 
 
