@@ -17,13 +17,15 @@ Instructions to download and run code
 ![screen shot of github “Emotion Recognition”](images/1.1.png)
 
 - directory view of "temp" directory you unzipped file to show the unzipped files and directory structures
-![directory view of "temp" directory you unzipped file to show the unzipped files and directory structures](images/)
+![directory view of "temp" directory you unzipped file to show the unzipped files and directory structures](images/1.2.png)
 
-- Instructions on importing the project onto Github
-![Instructions on importing the project onto Github](images/)
+- A working android application when opening the file
+![A working android application when opening the file](images/1.3.png)
+
+### Instructions on importing the project onto Github
 
 - copy github HTTP link 
-![copy github HTTP link](images/)
+![copy github HTTP link](images/1.4a.png)
 
 - Click on Git and clone the github repository
 ![Click on Git and clone the github repository](images/)
