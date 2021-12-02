@@ -9,6 +9,9 @@
 - aramachandran4@horizon.csueastbay.edu
 - kpatel107@horizon.csueastbay.edu
 - ychang52@horizon.csueastbay.edu
+
+### Colab:
+https://colab.research.google.com/drive/1kXfq_DAwt0Jr-DTQ3AlM3pbN3Cl5DvXT
        
 ## Section 1 Execution Instructions:
 Instructions to download and run code 
